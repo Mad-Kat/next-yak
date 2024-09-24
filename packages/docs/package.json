@@ -32,7 +32,7 @@
     "react-dom": "^18.3.1",
     "react-resizable-panels": "^2.0.16",
     "shiki": "^1.17.7",
-    "yak-swc": "workspace:^"
+    "yak-swc": "npm:yak-swc@0.3.0"
   },
   "devDependencies": {
     "@types/mdx": "^2.0.13",

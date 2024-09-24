@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -145,7 +145,7 @@ importers:
         specifier: ^1.17.7
         version: 1.18.0
       yak-swc:
-        specifier: workspace:^
+        specifier: npm:yak-swc@0.3.0
         version: link:../yak-swc
     devDependencies:
       '@types/mdx':
